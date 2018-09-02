@@ -1,0 +1,8 @@
+# idea
+syd/.idea/
+# git
+.git
+# venv
+syd/venv/
+# pyc
+*.pyc
