@@ -6,3 +6,5 @@ syd/.idea/
 syd/venv/
 # pyc
 *.pyc
+# mwb.bak
+.mwb.bak
