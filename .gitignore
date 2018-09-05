@@ -8,3 +8,5 @@ syd/venv/
 *.pyc
 # mwb.bak
 *.mwb.bak
+#migrations
+*/*/migrations/*
