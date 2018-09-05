@@ -7,4 +7,4 @@ syd/venv/
 # pyc
 *.pyc
 # mwb.bak
-.mwb.bak
+*.mwb.bak
